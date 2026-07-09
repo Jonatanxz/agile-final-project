@@ -4,6 +4,7 @@ description: Template for creating user stories for the e-commerce product catal
 title: ''
 labels: ''
 assignees: ''
+about: 'User history'
 ---
 
 ### Description
@@ -20,4 +21,4 @@ assignees: ''
 **When** [Action]  
 **Then** [Outcome]
 
-[about] User history 
+
